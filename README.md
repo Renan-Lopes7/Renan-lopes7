@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Back-end em formação`**
 
-Me chamo Renan, sou Desenvolvedor backend em formação Estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Atualmente, estou em constante evolução, criando projetos práticos. E buscando aprimorar minhas habilidades para atuar profissionalmente como desenvolvedor backend. Também penso em estudar para se tornar um *`DEV Fullstack. `*
+Me chamo Renan, sou desenvolvedor backend em formação e curso Análise e Desenvolvimento de Sistemas na Anhanguera.
+Atualmente, estou em constante evolução, desenvolvendo projetos práticos e aprimorando minhas habilidades para atuar profissionalmente como desenvolvedor backend.
 
 
 ## Linguagens e Tecnologias
