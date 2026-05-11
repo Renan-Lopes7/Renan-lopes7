@@ -10,12 +10,10 @@ Atualmente, estou em constante evolução, desenvolvendo projetos práticos e ap
           
 
  <img align="left" alt="NODE.JS" Title="NODE.JS" width="40px" style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-          
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />    
 
 <img align="left" alt="JavaScript" Title="JavaScript" width="30px" style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-          
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
 
  <img  align="left" alt="MongoDB" Title="MongoDB" width="45px" style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
