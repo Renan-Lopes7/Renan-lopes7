@@ -21,7 +21,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera, focado em des
 - Containerização com Docker
 - Deploy na AWS
 
-- ## 📚 ESTUDO(ANDAMENTO)
+- ## 📚 Estudo(andamento)
 - Cibersegurança do Zero à Prática (Santander + DIO), segurança aplicada ao backend
 
 ## 📫 Contato
