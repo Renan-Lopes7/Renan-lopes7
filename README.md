@@ -15,11 +15,14 @@ Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera, focado em des
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎯 Próximos passos
+## 🎯 Aprimorando conhecimento
 
 - Cache e filas com Redis
 - Containerização com Docker
 - Deploy na AWS
+
+- ## 📚 ESTUDO(ANDAMENTO)
+- Cibersegurança do Zero à Prática (Santander + DIO), segurança aplicada ao backend
 
 ## 📫 Contato
 
