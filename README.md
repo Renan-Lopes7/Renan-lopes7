@@ -2,7 +2,7 @@
 
 `Desenvolvedor Back-end em formação`
 
-Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera, focado em desenvolvimento backend com Node.js e TypeScript. Construo APIs REST com autenticação JWT, banco de dados relacional e testes automatizados.
+Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera, com foco em desenvolvimento back-end e previsão de conclusão em janeiro de 2027. Trabalho com Node.js, TypeScript e NestJS no desenvolvimento de APIs REST, utilizando autenticação JWT, Prisma ORM, bancos de dados relacionais e testes automatizados com Jest. Busco minha primeira oportunidade profissional como desenvolvedor back-end, onde possa aplicar meus conhecimentos.
 
 ## 🛠️ Stack
 
